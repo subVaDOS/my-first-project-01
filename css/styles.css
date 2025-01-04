@@ -42,3 +42,7 @@ a {
 #programs {
   color: #ff9800;
 }
+
+.benefits > li {
+  color: #d500f9;
+}
