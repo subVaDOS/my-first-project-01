@@ -11,5 +11,9 @@ a {
   color: black;
 }
 header {
-  background-color: whitesmoke;
+  background-color: rgb(245, 245, 245);
+}
+/* element Transparency rgba */
+nav {
+  background-color: rgba(0, 0, 255, 0.3);
 }
