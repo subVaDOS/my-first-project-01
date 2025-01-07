@@ -38,3 +38,8 @@ h6 {
   text-transform: uppercase;
   line-height: 1.333;
 }
+
+ul,
+ol {
+  list-style-type: none;
+}
