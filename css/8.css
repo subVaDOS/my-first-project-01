@@ -3,6 +3,7 @@ body {
   color: #212121;
   font-size: 14px;
   background-color: #fafafa;
+  line-height: 1.5;
 }
 
 .page-nav .link {
