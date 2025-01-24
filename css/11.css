@@ -77,15 +77,22 @@ img {
 .page-nav .link {
   display: block;
   padding: 4px 8px;
-  color: #03a9f4;
+  border-radius: 2px;
+  color: #fff;
   text-decoration: none;
   font-size: 14px;
   text-transform: uppercase;
+  transition-property: color, background-color;
+  transition-duration: 150ms;
+  transition-timing-function: ease-in-out;
+  transition-delay: 0ms, 150ms;
+  border-radius: 4px;
 }
 
 .page-nav .link:hover,
 .page-nav .link:focus {
   color: #0288d1;
+  background-color: #fff;
 }
 
 .page-nav .link:active {
